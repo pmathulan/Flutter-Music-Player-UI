@@ -19,9 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 Bug reports and pull requests are welcome on GitHub
 
 ### Screenshots
-<img src="images/Screenshots/1.jpeg" height="400em"/>
-<img src="images/Screenshots/2.jpeg" height="400em"/>
-<img src="images/Screenshots/3.jpeg" height="400em"/>
+<img src="images/Screenshots/1.jpeg" height="300em"/>
+<img src="images/Screenshots/2.jpeg" height="300em"/>
+<img src="images/Screenshots/3.jpeg" height="300em"/>
 
 ### License
 
